@@ -1,0 +1,6 @@
+#项目依赖文件
+flask
+flask-cors
+requests
+redis
+flask-sqlalchemy
